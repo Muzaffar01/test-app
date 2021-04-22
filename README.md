@@ -6,9 +6,9 @@ Use this and start your project.
 <h1>Start developing</h1>
 Run these commands to clone and install your app:
 
-<code>npm install -g @ionic/cli cordova-res </code><p><p>
-<code>git clone https://github.com/Muzaffar01/test-app.git test-app </code>
-<code>cd test-app && npm install && ionic serve </code>
+<p><code>npm install -g @ionic/cli cordova-res </code></p>
+<p><code>git clone https://github.com/Muzaffar01/test-app.git test-app </code></p>
+<p><code>cd test-app && npm install && ionic serve </code></p>
 
 
-Requires @ionic/cli 6.5.0 or above
+<p>Requires @ionic/cli 6.5.0 or above</p>
